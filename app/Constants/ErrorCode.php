@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace App\Constants;
 
 use Hyperf\Constants\AbstractConstants;
-use Hyperf\Constanst\Annotation\Constants;
+use Hyperf\Constants\Annotation\Constants;
 
 /**
  * @Constants
